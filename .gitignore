@@ -1,0 +1,7 @@
+# Cloudflare Wrangler & caches
+.wrangler/
+*.log
+
+# Archives & Temp
+coming-soon-page-03.zip
+.DS_Store
