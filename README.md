@@ -18,8 +18,8 @@
 </a>
 
 <p align="center">
-  <b>Live Production Surface:</b> <a href="https://dulith.me">https://dulith.me</a> &bull; 
-  <b>Standalone Preview:</b> <a href="https://maintenance-portfolio-44x.pages.dev">https://maintenance-portfolio-44x.pages.dev</a>
+  <b>Live Production Surface:</b> <a href="https://dulith.me">https://dulith.me</a>
+  
 </p>
 
 ---
