@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚧 dulith.me — Maintenance & Coming Soon Portfolio
+# 🚧 Maintenance & Coming Soon Portfolio
 
 ### *High-Aesthetic Temporary Holding Page & Decoupled Cloudflare Pages Deployment Pipeline*
 
