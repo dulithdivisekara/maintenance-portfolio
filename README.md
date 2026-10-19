@@ -2,7 +2,7 @@
 
 # 🚧 Maintenance & Coming Soon Portfolio
 
-### *High-Aesthetic Temporary Holding Page & Decoupled Cloudflare Pages Deployment Pipeline*
+### *Temporary Holding Page & Decoupled Cloudflare Pages Deployment Pipeline*
 
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://pages.cloudflare.com)
 [![Status: Live](https://img.shields.io/badge/Status-Active_Holding_Page-success?style=for-the-badge)](https://dulith.me)
